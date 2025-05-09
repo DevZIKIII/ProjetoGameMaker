@@ -1,0 +1,1 @@
+global.pontos += 1; // Adiciona 1 ponto
